@@ -1,0 +1,6 @@
+@Lung.Analysis.System_HostAddress = http://localhost:5013
+
+GET {{Lung.Analysis.System_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
